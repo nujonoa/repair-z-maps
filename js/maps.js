@@ -484,7 +484,7 @@ const categorySupportMap = {
 const engineerLimitMap = {
   "ニューブリッジ": 100,
   "黒田（自社）": 100,
-  "TEST": 200,
+  "TEST": 50,
   "冨永（自社）": 100,
   "ブライト": 100,
   "レンジャー": 100,
