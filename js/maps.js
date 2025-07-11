@@ -241,7 +241,10 @@ const areaSupportMap = {
     "愛知県"
   ],
   "嵐": [],
-  "高田空調": []
+  "高田空調": [
+    "北海道"
+  ],
+  "": []
 };
 
 const categorySupportMap = {
@@ -478,7 +481,8 @@ const categorySupportMap = {
     "アンテナ"
   ],
   "嵐": [],
-  "高田空調": []
+  "高田空調": [],
+  "": []
 };
 
 const engineerLimitMap = {
