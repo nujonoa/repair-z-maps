@@ -510,7 +510,7 @@ const categorySupportMap = {
 };
 
 const engineerLimitMap = {
-  "ニューブリッジ": 100,
+  "ニューブリッジ": "停止",
   "黒田（自社）": 100,
   "TEST": 50,
   "冨永（自社）": "停止",
