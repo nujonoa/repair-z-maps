@@ -176,7 +176,9 @@ const areaSupportMap = {
 const categorySupportMap = {
   "ニューブリッジ": [
     "家庭用エアコン",
-    "業務用エアコン"
+    "業務用エアコン",
+    "エアクリ",
+    "ハウクリ"
   ],
   "黒田（自社）": [
     "照明",
