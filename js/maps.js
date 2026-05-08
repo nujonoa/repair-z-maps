@@ -308,6 +308,8 @@ const areaSupportMap = {
     "愛知県"
   ],
   "株式会社RSX": [],
+  "Sun-Light-Group株式会社": [],
+  "松村電工": [],
   "": []
 };
 
@@ -695,6 +697,8 @@ const categorySupportMap = {
     "コンセント"
   ],
   "株式会社RSX": [],
+  "Sun-Light-Group株式会社": [],
+  "松村電工": [],
   "": []
 };
 
@@ -779,5 +783,7 @@ const engineerLimitMap = {
   "ProE": 100,
   "MIKIエンタープライズ": 100,
   "株式会社RSX": 100,
+  "Sun-Light-Group株式会社": 100,
+  "松村電工": 100,
   "": 0
 };
