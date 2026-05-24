@@ -736,7 +736,9 @@ const categorySupportMap = {
     "スイッチ",
     "コンセント"
   ],
-  "株式会社RSX": [],
+  "株式会社RSX": [
+    "アンテナ"
+  ],
   "Sun-Light-Group株式会社": [
     "家庭用エアコン",
     "エアクリ",
