@@ -384,6 +384,7 @@ const areaSupportMap = {
   "株式会社プロテクトハウス": [
     "神奈川県"
   ],
+  "はちみつデンキ": [],
   "": []
 };
 
@@ -785,6 +786,7 @@ const categorySupportMap = {
   ],
   "株式会社will service": [],
   "株式会社プロテクトハウス": [],
+  "はちみつデンキ": [],
   "": []
 };
 
@@ -874,5 +876,6 @@ const engineerLimitMap = {
   "LifeSupport": 100,
   "株式会社will service": 100,
   "株式会社プロテクトハウス": 100,
+  "はちみつデンキ": 100,
   "": 0
 };
