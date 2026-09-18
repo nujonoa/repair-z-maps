@@ -393,6 +393,9 @@ const areaSupportMap = {
     "愛知県",
     "三重県"
   ],
+  "合同会社BLUE PLAN": [],
+  "T-PAINT": [],
+  "LifeArt": [],
   "": []
 };
 
@@ -803,6 +806,9 @@ const categorySupportMap = {
     "家庭用エアコン",
     "業務用エアコン"
   ],
+  "合同会社BLUE PLAN": [],
+  "T-PAINT": [],
+  "LifeArt": [],
   "": []
 };
 
@@ -895,5 +901,8 @@ const engineerLimitMap = {
   "はちみつデンキ": 100,
   "合同会社F&H": 100,
   "LINKPLUS": 100,
+  "合同会社BLUE PLAN": 100,
+  "T-PAINT": 100,
+  "LifeArt": 100,
   "": 0
 };
