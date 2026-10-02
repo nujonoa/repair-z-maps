@@ -396,6 +396,12 @@ const areaSupportMap = {
   "合同会社BLUE PLAN": [],
   "T-PAINT": [],
   "LifeArt": [],
+  "柏原電気": [],
+  "菊池内装": [],
+  "LinkGate": [
+    "東京都"
+  ],
+  "KDホーム": [],
   "": []
 };
 
@@ -809,6 +815,12 @@ const categorySupportMap = {
   "合同会社BLUE PLAN": [],
   "T-PAINT": [],
   "LifeArt": [],
+  "柏原電気": [],
+  "菊池内装": [],
+  "LinkGate": [
+    "引越し"
+  ],
+  "KDホーム": [],
   "": []
 };
 
@@ -904,5 +916,9 @@ const engineerLimitMap = {
   "合同会社BLUE PLAN": 100,
   "T-PAINT": 100,
   "LifeArt": 100,
+  "柏原電気": 100,
+  "菊池内装": 100,
+  "LinkGate": 100,
+  "KDホーム": 100,
   "": 0
 };
